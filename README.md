@@ -187,3 +187,6 @@ int main() {
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/0a4c242d-231c-4cc5-96bf-af914c525718)
+
+## RESULT:
+The program is executed successfully
